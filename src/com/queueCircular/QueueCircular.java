@@ -5,6 +5,7 @@ import com.LRU.LinkedList;
 /**
  * 循环队列算法--链表数据结构实现
  * @author Administrator
+ *-v0.1
  *
  */
 public class QueueCircular<T> {
