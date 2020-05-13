@@ -1,6 +1,6 @@
 package com.LRU;
 /**
- * LRU算法111
+ * LRU算法222
  * @author Administrator
  * @param <T>
  *
